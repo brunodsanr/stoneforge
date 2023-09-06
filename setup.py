@@ -26,6 +26,10 @@ setup(
         "scipy>=1.4.1, <1.8.1",
         "scikit-learn>=0.22.1, <0.24.2",
         "xgboost==1.4.0",
-        "lightgbm==3.3.2"
+        "lightgbm==3.3.2",
+        "matplotlib",
+        "pandas",
+        "jupyter",
+        "pyinstaller"
     ],
 )
